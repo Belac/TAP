@@ -9,26 +9,27 @@ body {
 	padding: 0;
 }
 div {
-	font-size: 80px;
+	font-size: 100px;
 	text-align: center;
 }
 h1 {
-	font-family: Verdana;
+	font-family: "Times New Roman";
+	font-weight: bold;
 	text-align: center;
 	margin: 0;
 	width: 100%;
 }
 #tapShop {
-	font-family: Verdana, Geneva, sans-serif;	
 	float: right;
 	text-align: right;
 	margin-right: 20px;
 }
 #motto {
+	font-family: Arial;
 	text-align: center;
-	font-size: 35px;
+	font-size: 20px;
 	margin: 0;
-	font-family: "Arial Black";
+	letter-spacing: 8px;
 }
 #tapFacts {
 	font-family: "Arial";
@@ -40,7 +41,7 @@ h1 {
 #tapFactsSection {
 	width: 100%;
 	float: center;
-	text-align: center;
+	text-align: c	enter;
 	background-color: white;
 	background-size: 200%;
 	margin: 0;
