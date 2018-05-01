@@ -1,5 +1,4 @@
 body {
-	float: center;
 	text-align: right;
 	background: url("background.jpg");
 	background-size: 100%;
@@ -10,16 +9,20 @@ body {
 	padding: 0;
 }
 div {
-	font-size: 100px;
+	font-size: 80px;
 	text-align: center;
-	margin-left: 100px;
-	margin-top: 250px;
 }
 h1 {
 	font-family: Verdana;
 	text-align: center;
 	margin: 0;
 	width: 100%;
+}
+#tapShop {
+	font-family: Verdana, Geneva, sans-serif;	
+	float: right;
+	text-align: right;
+	margin-right: 20px;
 }
 #motto {
 	text-align: center;
@@ -36,11 +39,12 @@ h1 {
 }
 #tapFactsSection {
 	width: 100%;
+	float: center;
 	text-align: center;
 	background-color: white;
 	background-size: 200%;
 	margin: 0;
-	margin-top: 450px;
+	margin-top: 750px;
 	display: inline-block;
 }
 
